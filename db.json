@@ -1,0 +1,119 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "data": [
+    {
+      "id": 1,
+      "name": "Plain Paratha",
+      "text": "Extra Sauce",
+      "price": 40,
+      "img": "https://5.imimg.com/data5/SK/ZP/LI/SELLER-8577743/paneer-paratha-500x500.png",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "name": "Aalo Paratha",
+      "text": "Extra Sauce, Yogurt,  Cheese,",
+      "price": 50,
+      "img": "https://5.imimg.com/data5/SK/ZP/LI/SELLER-8577743/paneer-paratha-500x500.png",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "name": "Veg Paratha",
+      "text": "Corn, Cabbage, Fenugreek",
+      "price": 50,
+      "img": "https://5.imimg.com/data5/SK/ZP/LI/SELLER-8577743/paneer-paratha-500x500.png",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "name": "Double Cheese Paratha",
+      "text": "Extra Sauce, Yogurt ,Corn",
+      "price": 70,
+      "img": "https://5.imimg.com/data5/SK/ZP/LI/SELLER-8577743/paneer-paratha-500x500.png",
+      "count": 1
+    },
+    {
+      "id": 5,
+      "name": "Corn Cheese Paratha",
+      "text": "Extra Sauce, Yogurt ,Cheese",
+      "price": 80,
+      "img": "https://5.imimg.com/data5/SK/ZP/LI/SELLER-8577743/paneer-paratha-500x500.png",
+      "count": 1
+    }
+  ],
+  "addonsdata": [
+    {
+      "id": "15",
+      "price": 20,
+      "name": "Water Bottle",
+      "img": "https://www.mealgaadi.co.in/images/restCatItems/59e5147ecf13d.png",
+      "count": 1
+    },
+    {
+      "id": "16",
+      "price": 40,
+      "name": "Thums Up - 600 Ml",
+      "img": "https://www.mealgaadi.co.in/images/restCatItems/5a059d880e041.png",
+      "count": 1
+    },
+    {
+      "id": "17",
+      "price": 40,
+      "name": "Sprite - 600 Ml",
+      "img": "https://www.mealgaadi.co.in/images/restCatItems/5a059d8a526fb.png",
+      "count": 1
+    },
+    {
+      "id": "11",
+      "price": 30,
+      "name": "  dobal Extra cheese",
+      "img": "https://i.pinimg.com/originals/b3/77/8e/b3778ed590bc573ecd266d6b7d92d658.png",
+      "count": 1
+    },
+    {
+      "id": "12",
+      "price": 15,
+      "name": "yogurt",
+      "img": "https://www.mealgaadi.co.in/images/restCatItems/5a0dc6b8b2a77.png",
+      "count": 1
+    },
+    {
+      "id": "13",
+      "price": 15,
+      "name": "Cabbage",
+      "img": "https://img.favpng.com/22/17/0/red-cabbage-wine-organic-food-vegetable-png-favpng-dkuPic3HP2jR5h6fjM6LJFH77.jpg",
+      "count": 1
+    },
+    {
+      "id": "14",
+      "price": 20,
+      "name": "Extra cheese",
+      "img": "https://i.pinimg.com/originals/b3/77/8e/b3778ed590bc573ecd266d6b7d92d658.png",
+      "count": 1
+    },
+    {
+      "id": "18",
+      "price": 30,
+      "name": "  dobal Extra cheese",
+      "img": "https://i.pinimg.com/originals/b3/77/8e/b3778ed590bc573ecd266d6b7d92d658.png",
+      "count": 1
+    }
+  ]
+}
